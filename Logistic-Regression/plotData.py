@@ -33,7 +33,7 @@ plt.plot(steps,j)
 plt.xlabel("Steps")
 plt.ylabel("The cost")
 plt.title("The cost function")
-plt.show
+plt.show()
 
 # %%
 theta_0=-8.05308516
@@ -60,6 +60,5 @@ plt.xlabel("Exam 1 score")
 plt.ylabel("Exam 2 score")
 plt.title("Training set with decision boundary")
 plt.show()
-
 
 # %%
